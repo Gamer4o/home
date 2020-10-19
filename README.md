@@ -1,2 +1,1 @@
-# home
-Hi
+# Gamer4or.github.io
